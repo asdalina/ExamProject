@@ -1,0 +1,564 @@
+2025-05-08 01:49:05   INFO [org.searchTest.SearchTest] : Browser was opened
+2025-05-08 01:49:10   INFO [org.pages.HomePage] : Login page was opened with url https://thelace.com.ua
+2025-05-08 01:49:10   INFO [org.pages.elements.HeaderElements] :  element was clicked
+2025-05-08 01:49:11   INFO [org.searchTest.SearchTest] : Browser was closed
+2025-05-08 02:09:13   INFO [org.searchTest.SearchTest] : Browser was opened
+2025-05-08 02:09:18   INFO [org.pages.HomePage] : Login page was opened with url https://thelace.com.ua
+2025-05-08 02:09:18   INFO [org.pages.elements.HeaderElements] :  element was clicked
+2025-05-08 02:09:19   INFO [org.pages.elements.HeaderElements] : qwerty was entered in element 
+2025-05-08 02:09:22   INFO [org.searchTest.SearchTest] : Browser was closed
+2025-05-08 02:18:15   INFO [org.searchTest.SearchTest] : Browser was opened
+2025-05-08 02:18:19   INFO [org.pages.HomePage] : Login page was opened with url https://thelace.com.ua
+2025-05-08 02:18:20   INFO [org.pages.elements.HeaderElements] :  element was clicked
+2025-05-08 02:18:20   INFO [org.pages.elements.HeaderElements] : qwerty was entered in element 
+2025-05-08 02:18:23   INFO [org.pages.HomePage] : Element is not found, so it is not displayed
+2025-05-08 02:18:24   INFO [org.searchTest.SearchTest] : Browser was closed
+2025-05-08 02:27:41   INFO [org.searchTest.SearchTest] : Browser was opened
+2025-05-08 02:27:43   INFO [org.pages.HomePage] : Login page was opened with url https://thelace.com.ua
+2025-05-08 02:27:47   INFO [org.pages.elements.HeaderElements] :  element was clicked
+2025-05-08 02:27:48   INFO [org.pages.elements.HeaderElements] : qwerty was entered in element 
+2025-05-08 02:27:50   INFO [org.pages.HomePage] :  element is displayed
+2025-05-08 02:27:50   INFO [org.pages.HomePage] : Element is displayed as expected
+2025-05-08 02:27:52   INFO [org.searchTest.SearchTest] : Browser was closed
+2025-05-08 02:33:19   INFO [org.searchTest.SearchTest] : Browser was opened
+2025-05-08 02:33:24   INFO [org.pages.HomePage] : Login page was opened with url https://thelace.com.ua
+2025-05-08 02:33:25   INFO [org.pages.elements.HeaderElements] :  element was clicked
+2025-05-08 02:33:25   INFO [org.pages.elements.HeaderElements] : qwerty was entered in element 
+2025-05-08 02:33:28   INFO [org.pages.HomePage] :  element is displayed
+2025-05-08 02:33:28   INFO [org.pages.HomePage] : Element is displayed as expected
+2025-05-08 02:33:29   INFO [org.searchTest.SearchTest] : Browser was closed
+2025-05-08 02:35:31   INFO [org.searchTest.SearchTest] : Browser was opened
+2025-05-08 02:35:36   INFO [org.pages.HomePage] : Login page was opened with url https://thelace.com.ua
+2025-05-08 02:35:37   INFO [org.pages.elements.HeaderElements] :  element was clicked
+2025-05-08 02:35:37   INFO [org.pages.elements.HeaderElements] : qwerty was entered in element 
+2025-05-08 02:35:40   INFO [org.pages.HomePage] :  element is displayed
+2025-05-08 02:35:40   INFO [org.pages.HomePage] : Element is displayed as expected
+2025-05-08 02:35:41   INFO [org.searchTest.SearchTest] : Browser was closed
+2025-05-08 02:38:02   INFO [org.searchTest.SearchTest] : Browser was opened
+2025-05-08 02:38:06   INFO [org.pages.HomePage] : Login page was opened with url https://thelace.com.ua
+2025-05-08 02:38:07   INFO [org.pages.elements.HeaderElements] :  element was clicked
+2025-05-08 02:38:07   INFO [org.pages.elements.HeaderElements] : qwerty was entered in element 
+2025-05-08 02:38:10   INFO [org.pages.HomePage] :  element is displayed
+2025-05-08 02:38:10   INFO [org.pages.HomePage] : Element is displayed as expected
+2025-05-08 02:38:11   INFO [org.searchTest.SearchTest] : Browser was closed
+2025-05-08 02:38:59   INFO [org.searchTest.SearchTest] : Browser was opened
+2025-05-08 02:39:04   INFO [org.pages.HomePage] : Login page was opened with url https://thelace.com.ua
+2025-05-08 02:39:05   INFO [org.pages.elements.HeaderElements] :  element was clicked
+2025-05-08 02:39:05   INFO [org.pages.elements.HeaderElements] : qwerty was entered in element 
+2025-05-08 02:39:08   INFO [org.pages.HomePage] :  element is displayed
+2025-05-08 02:39:08   INFO [org.pages.HomePage] : Element is displayed as expected
+2025-05-08 02:39:09   INFO [org.searchTest.SearchTest] : Browser was closed
+2025-05-08 02:40:11   INFO [org.searchTest.SearchTest] : Browser was opened
+2025-05-08 02:40:17   INFO [org.pages.HomePage] : Login page was opened with url https://thelace.com.ua
+2025-05-08 02:40:17   INFO [org.pages.elements.HeaderElements] :  element was clicked
+2025-05-08 02:40:18   INFO [org.pages.elements.HeaderElements] : qwerty was entered in element 
+2025-05-08 02:40:21   INFO [org.pages.HomePage] :  element is displayed
+2025-05-08 02:40:21   INFO [org.pages.HomePage] : Element is displayed as expected
+2025-05-08 02:40:21   INFO [org.pages.HomePage] : Text in element matches expected text: Не знайдено товарів, що відповідають вашому вибору.
+2025-05-08 02:40:21   INFO [org.searchTest.SearchTest] : Browser was closed
+2025-05-08 03:04:03   INFO [org.languageTest.LanguageTest] : Browser was opened
+2025-05-08 03:04:09   INFO [org.pages.HomePage] : Login page was opened with url https://thelace.com.ua
+2025-05-08 03:04:09   INFO [org.pages.elements.HeaderElements] :  element was clicked
+2025-05-08 03:04:10   INFO [org.languageTest.LanguageTest] : Browser was closed
+2025-05-08 16:05:28   INFO [org.languageTest.LanguageTest] : Browser was opened
+2025-05-08 16:05:39   INFO [org.pages.HomePage] : Login page was opened with url https://thelace.com.ua
+2025-05-08 16:05:40   INFO [org.pages.elements.HeaderElements] :  element was clicked
+2025-05-08 16:05:41   INFO [org.languageTest.LanguageTest] : Browser was closed
+2025-05-08 16:13:57   INFO [org.languageTest.LanguageTest] : Browser was opened
+2025-05-08 16:14:02   INFO [org.pages.HomePage] : Login page was opened with url https://thelace.com.ua
+2025-05-08 16:14:03   INFO [org.pages.HomePage] :  element is displayed
+2025-05-08 16:14:03   INFO [org.pages.HomePage] : Element is displayed as expected
+2025-05-08 16:14:04   INFO [org.languageTest.LanguageTest] : Browser was closed
+2025-05-08 16:15:03   INFO [org.languageTest.LanguageTest] : Browser was opened
+2025-05-08 16:15:08   INFO [org.pages.HomePage] : Login page was opened with url https://thelace.com.ua
+2025-05-08 16:15:08   INFO [org.pages.HomePage] :  element is displayed
+2025-05-08 16:15:08   INFO [org.pages.HomePage] : Element is displayed as expected
+2025-05-08 16:15:08   INFO [org.pages.HomePage] : Text in element matches expected text: ДО ЗНИЖОК
+2025-05-08 16:15:08   INFO [org.pages.elements.HeaderElements] :  element was clicked
+2025-05-08 16:15:09   INFO [org.languageTest.LanguageTest] : Browser was closed
+2025-05-08 16:29:24   INFO [org.languageTest.LanguageTest] : Browser was opened
+2025-05-08 16:29:30   INFO [org.pages.HomePage] : Login page was opened with url https://thelace.com.ua
+2025-05-08 16:29:30   INFO [org.pages.HomePage] :  element is displayed
+2025-05-08 16:29:30   INFO [org.pages.HomePage] : Element is displayed as expected
+2025-05-08 16:29:30   INFO [org.pages.HomePage] : Text in element matches expected text: ДО ЗНИЖОК
+2025-05-08 16:29:31   INFO [org.pages.elements.HeaderElements] :  element was clicked
+2025-05-08 16:29:31  ERROR [org.pages.elements.HeaderElements] : Error while working with element: invalid selector: Unable to locate an element with the xpath expression  (//div[@class=’code’ and text() = 'ENG'])[1] because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string ' (//div[@class=’code’ and text() = 'ENG'])[1]' is not a valid XPath expression.
+  (Session info: chrome=138.0.7204.184)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#invalid_selector_exception
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.15'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [119c1ac15be12535a5091c75c6cc041f, findElement {using=xpath, value= (//div[@class=’code’ and text() = 'ENG'])[1]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.184, chrome: {chromedriverVersion: 138.0.7204.183 (e90faf484dd..., userDataDir: C:\Users\dora\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60884}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:60884/devtoo..., se:cdpVersion: 138.0.7204.184, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 119c1ac15be12535a5091c75c6cc041f
+2025-05-08 16:29:32   INFO [org.languageTest.LanguageTest] : Browser was closed
+2025-05-08 16:35:18   INFO [org.languageTest.LanguageTest] : Browser was opened
+2025-05-08 16:35:26   INFO [org.pages.HomePage] : Login page was opened with url https://thelace.com.ua
+2025-05-08 16:35:26   INFO [org.pages.HomePage] :  element is displayed
+2025-05-08 16:35:26   INFO [org.pages.HomePage] : Element is displayed as expected
+2025-05-08 16:35:26   INFO [org.pages.HomePage] : Text in element matches expected text: ДО ЗНИЖОК
+2025-05-08 16:35:27   INFO [org.pages.elements.HeaderElements] :  element was clicked
+2025-05-08 16:35:27  ERROR [org.pages.HomePage] : Error while working with element: invalid selector: Unable to locate an element with the xpath expression  (//div[@class=’code’ and text() = 'ENG'])[1] because of the following error:
+SyntaxError: Failed to execute 'evaluate' on 'Document': The string ' (//div[@class=’code’ and text() = 'ENG'])[1]' is not a valid XPath expression.
+  (Session info: chrome=138.0.7204.184)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#invalid_selector_exception
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.15'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [7e927caef6fe7621638f4408ce9fbf19, findElement {using=xpath, value= (//div[@class=’code’ and text() = 'ENG'])[1]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.184, chrome: {chromedriverVersion: 138.0.7204.183 (e90faf484dd..., userDataDir: C:\Users\dora\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61170}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:61170/devtoo..., se:cdpVersion: 138.0.7204.184, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 7e927caef6fe7621638f4408ce9fbf19
+2025-05-08 16:35:28   INFO [org.languageTest.LanguageTest] : Browser was closed
+2025-05-08 16:39:40   INFO [org.languageTest.LanguageTest] : Browser was opened
+2025-05-08 16:39:47   INFO [org.pages.HomePage] : Login page was opened with url https://thelace.com.ua
+2025-05-08 16:39:47   INFO [org.pages.HomePage] :  element is displayed
+2025-05-08 16:39:47   INFO [org.pages.HomePage] : Element is displayed as expected
+2025-05-08 16:39:47   INFO [org.pages.HomePage] : Text in element matches expected text: ДО ЗНИЖОК
+2025-05-08 16:39:48   INFO [org.pages.elements.HeaderElements] :  element was clicked
+2025-05-08 16:39:49  ERROR [org.pages.HomePage] : Error while working with element: element click intercepted: Element <div class="flag">...</div> is not clickable at point (1074, 140). Other element would receive the click: <div class="notice-content">...</div>
+  (Session info: chrome=138.0.7204.184)
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.15'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [ae4003fb985c6364ed949aabba7ca71b, clickElement {id=f.64F7BF5A8329ACC3D352A64CD6D002AD.d.48F6F067E367C32D7D2C0A8DEC5055A6.e.485}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.184, chrome: {chromedriverVersion: 138.0.7204.183 (e90faf484dd..., userDataDir: C:\Users\dora\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61382}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:61382/devtoo..., se:cdpVersion: 138.0.7204.184, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (ae4003fb985c6364ed949aabba7ca71b)] -> xpath: (//div[@class='flag'])[3]]
+Session ID: ae4003fb985c6364ed949aabba7ca71b
+2025-05-08 16:39:50   INFO [org.languageTest.LanguageTest] : Browser was closed
+2025-05-08 16:43:50   INFO [org.languageTest.LanguageTest] : Browser was opened
+2025-05-08 16:43:56   INFO [org.pages.HomePage] : Login page was opened with url https://thelace.com.ua
+2025-05-08 16:43:56   INFO [org.pages.HomePage] :  element is displayed
+2025-05-08 16:43:56   INFO [org.pages.HomePage] : Element is displayed as expected
+2025-05-08 16:43:56   INFO [org.pages.HomePage] : Text in element matches expected text: ДО ЗНИЖОК
+2025-05-08 16:43:56   INFO [org.pages.elements.HeaderElements] :  element was clicked
+2025-05-08 16:44:00  ERROR [org.pages.HomePage] : Error while working with element: element click intercepted: Element <div class="flag">...</div> is not clickable at point (1074, 140). Other element would receive the click: <div class="notice-content">...</div>
+  (Session info: chrome=138.0.7204.184)
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.15'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [fce138f2a494f758d90ddcb810195fdb, clickElement {id=f.512CC2B17885959471C5B22A5AB6E079.d.002D97E2F8DF2C7D444A561290C36E76.e.483}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.184, chrome: {chromedriverVersion: 138.0.7204.183 (e90faf484dd..., userDataDir: C:\Users\dora\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62072}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:62072/devtoo..., se:cdpVersion: 138.0.7204.184, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (fce138f2a494f758d90ddcb810195fdb)] -> xpath: (//div[@class='flag'])[3]]
+Session ID: fce138f2a494f758d90ddcb810195fdb
+2025-05-08 16:44:01   INFO [org.languageTest.LanguageTest] : Browser was closed
+2025-05-08 16:51:48   INFO [org.languageTest.LanguageTest] : Browser was opened
+2025-05-08 16:52:07   INFO [org.pages.HomePage] : Login page was opened with url https://thelace.com.ua
+2025-05-08 16:52:07   INFO [org.pages.HomePage] :  element is displayed
+2025-05-08 16:52:07   INFO [org.pages.HomePage] : Element is displayed as expected
+2025-05-08 16:52:08   INFO [org.languageTest.LanguageTest] : Browser was closed
+2025-05-08 16:52:51   INFO [org.languageTest.LanguageTest] : Browser was opened
+2025-05-08 16:52:53   INFO [org.pages.HomePage] : Login page was opened with url https://thelace.com.ua
+2025-05-08 16:52:57   INFO [org.pages.HomePage] :  element is displayed
+2025-05-08 16:52:57   INFO [org.pages.HomePage] : Element is displayed as expected
+2025-05-08 16:52:57   INFO [org.pages.HomePage] : Text in element matches expected text: ДО КОЛЕКЦІЇ
+2025-05-08 16:52:57   INFO [org.pages.elements.HeaderElements] :  element was clicked
+2025-05-08 16:52:58  ERROR [org.pages.HomePage] : Error while working with element: element click intercepted: Element <div class="flag">...</div> is not clickable at point (1074, 140). Other element would receive the click: <div class="notice-content">...</div>
+  (Session info: chrome=138.0.7204.184)
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.15'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e35b9d6fe4065650300909b842482a9e, clickElement {id=f.AA95F30450174578E3DDC3344D08B9E0.d.5BBC0812610ACFA0493955DACA88F243.e.484}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.184, chrome: {chromedriverVersion: 138.0.7204.183 (e90faf484dd..., userDataDir: C:\Users\dora\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62510}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:62510/devtoo..., se:cdpVersion: 138.0.7204.184, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (e35b9d6fe4065650300909b842482a9e)] -> xpath: (//div[@class='flag'])[3]]
+Session ID: e35b9d6fe4065650300909b842482a9e
+2025-05-08 16:52:59   INFO [org.languageTest.LanguageTest] : Browser was closed
+2025-05-08 17:00:31   INFO [org.languageTest.LanguageTest] : Browser was opened
+2025-05-08 17:00:36   INFO [org.pages.HomePage] : Login page was opened with url https://thelace.com.ua
+2025-05-08 17:00:37   INFO [org.pages.HomePage] :  element is displayed
+2025-05-08 17:00:37   INFO [org.pages.HomePage] : Element is displayed as expected
+2025-05-08 17:00:37   INFO [org.pages.HomePage] : Text in element matches expected text: ДО КОЛЕКЦІЇ
+2025-05-08 17:00:37   INFO [org.pages.elements.HeaderElements] :  element was clicked
+2025-05-08 17:00:38  ERROR [org.pages.HomePage] : Error while working with element: element click intercepted: Element <div class="flag">...</div> is not clickable at point (1074, 140). Other element would receive the click: <div class="notice-content">...</div>
+  (Session info: chrome=138.0.7204.184)
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.15'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [2d646c1ef174e5010f3b50d8251c40a6, clickElement {id=f.C6D54AB68714773C8F1CE8FF4C7B3D9F.d.60BC96B9A7E43C8B3F8D60DF07BCE173.e.483}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.184, chrome: {chromedriverVersion: 138.0.7204.183 (e90faf484dd..., userDataDir: C:\Users\dora\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62892}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:62892/devtoo..., se:cdpVersion: 138.0.7204.184, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (2d646c1ef174e5010f3b50d8251c40a6)] -> xpath: (//div[@class='flag'])[3]]
+Session ID: 2d646c1ef174e5010f3b50d8251c40a6
+2025-05-08 17:00:39   INFO [org.languageTest.LanguageTest] : Browser was closed
+2025-05-08 17:05:04   INFO [org.languageTest.LanguageTest] : Browser was opened
+2025-05-08 17:05:10   INFO [org.pages.HomePage] : Login page was opened with url https://thelace.com.ua
+2025-05-08 17:05:10   INFO [org.pages.HomePage] :  element is displayed
+2025-05-08 17:05:10   INFO [org.pages.HomePage] : Element is displayed as expected
+2025-05-08 17:05:10   INFO [org.pages.HomePage] : Text in element matches expected text: ДО КОЛЕКЦІЇ
+2025-05-08 17:05:10   INFO [org.pages.elements.HeaderElements] :  element was clicked
+2025-05-08 17:05:13  ERROR [org.pages.HomePage] : Error while working with element: element click intercepted: Element <div class="flag">...</div> is not clickable at point (1074, 140). Other element would receive the click: <div class="notice-content">...</div>
+  (Session info: chrome=138.0.7204.184)
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.15'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [48ca5494df99c1b4f47ae1929cfc688e, clickElement {id=f.08335B3FAE0C5A21FCA93032BA8CA754.d.3AAF03B5F14C5536D13D132563833055.e.501}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.184, chrome: {chromedriverVersion: 138.0.7204.183 (e90faf484dd..., userDataDir: C:\Users\dora\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63096}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:63096/devtoo..., se:cdpVersion: 138.0.7204.184, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (48ca5494df99c1b4f47ae1929cfc688e)] -> xpath: (//div[@class='flag'])[3]]
+Session ID: 48ca5494df99c1b4f47ae1929cfc688e
+2025-05-08 17:05:14   INFO [org.languageTest.LanguageTest] : Browser was closed
+2025-05-08 17:15:02   INFO [org.languageTest.LanguageTest] : Browser was opened
+2025-05-08 17:15:08   INFO [org.pages.HomePage] : Login page was opened with url https://thelace.com.ua
+2025-05-08 17:15:08   INFO [org.pages.HomePage] :  element is displayed
+2025-05-08 17:15:08   INFO [org.pages.HomePage] : Element is displayed as expected
+2025-05-08 17:15:08   INFO [org.pages.HomePage] : Text in element matches expected text: ДО КОЛЕКЦІЇ
+2025-05-08 17:15:08   INFO [org.pages.elements.HeaderElements] :  element was clicked
+2025-05-08 17:15:10  ERROR [org.pages.HomePage] : Error while working with element: element click intercepted: Element <a href="https://thelace.com.ua/en/" class="lang-item ">...</a> is not clickable at point (1091, 140). Other element would receive the click: <div class="notice-content">...</div>
+  (Session info: chrome=138.0.7204.184)
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.15'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [75ecfb1dbfbee657235ef164d32d73dc, clickElement {id=f.315DBE1E7E4113CF4B023CFC5160A01F.d.7CF95E2ED8955D50F10AF8D748434D95.e.480}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.184, chrome: {chromedriverVersion: 138.0.7204.183 (e90faf484dd..., userDataDir: C:\Users\dora\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63538}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:63538/devtoo..., se:cdpVersion: 138.0.7204.184, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (75ecfb1dbfbee657235ef164d32d73dc)] -> xpath: //a[contains(@href, '/en') and contains(., 'ENG')]]
+Session ID: 75ecfb1dbfbee657235ef164d32d73dc
+2025-05-08 17:15:12   INFO [org.languageTest.LanguageTest] : Browser was closed
+2025-05-08 17:17:28   INFO [org.languageTest.LanguageTest] : Browser was opened
+2025-05-08 17:17:35   INFO [org.pages.HomePage] : Login page was opened with url https://thelace.com.ua
+2025-05-08 17:17:35   INFO [org.pages.HomePage] :  element is displayed
+2025-05-08 17:17:35   INFO [org.pages.HomePage] : Element is displayed as expected
+2025-05-08 17:17:35   INFO [org.pages.HomePage] : Text in element matches expected text: ДО КОЛЕКЦІЇ
+2025-05-08 17:17:35   INFO [org.pages.elements.HeaderElements] :  element was clicked
+2025-05-08 17:17:36  ERROR [org.pages.HomePage] : Error while working with element: element click intercepted: Element <a href="https://thelace.com.ua/en/" class="lang-item ">...</a> is not clickable at point (1091, 140). Other element would receive the click: <div class="notice-content">...</div>
+  (Session info: chrome=138.0.7204.184)
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.15'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [0343729b24d4b3e793ad57d18503804d, clickElement {id=f.3F89522F89ADA16315376696CF550773.d.D747934C3789A385FF996552211AD7CD.e.485}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.184, chrome: {chromedriverVersion: 138.0.7204.183 (e90faf484dd..., userDataDir: C:\Users\dora\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63678}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:63678/devtoo..., se:cdpVersion: 138.0.7204.184, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (0343729b24d4b3e793ad57d18503804d)] -> xpath: (//a[contains(@href, '/en') and contains(., 'ENG')])[1]]
+Session ID: 0343729b24d4b3e793ad57d18503804d
+2025-05-08 17:17:38   INFO [org.languageTest.LanguageTest] : Browser was closed
+2025-05-08 17:20:11   INFO [org.languageTest.LanguageTest] : Browser was opened
+2025-05-08 17:20:17   INFO [org.pages.HomePage] : Login page was opened with url https://thelace.com.ua
+2025-05-08 17:20:17   INFO [org.pages.HomePage] :  element is displayed
+2025-05-08 17:20:17   INFO [org.pages.HomePage] : Element is displayed as expected
+2025-05-08 17:20:17   INFO [org.pages.HomePage] : Text in element matches expected text: ДО КОЛЕКЦІЇ
+2025-05-08 17:20:17   INFO [org.pages.elements.HeaderElements] :  element was clicked
+2025-05-08 17:20:29   INFO [org.languageTest.LanguageTest] : Browser was closed
+2025-05-08 17:24:17   INFO [org.languageTest.LanguageTest] : Browser was opened
+2025-05-08 17:24:26   INFO [org.pages.HomePage] : Login page was opened with url https://thelace.com.ua
+2025-05-08 17:24:27   INFO [org.pages.HomePage] :  element is displayed
+2025-05-08 17:24:27   INFO [org.pages.HomePage] : Element is displayed as expected
+2025-05-08 17:24:27   INFO [org.pages.HomePage] : Text in element matches expected text: ДО КОЛЕКЦІЇ
+2025-05-08 17:24:27   INFO [org.pages.elements.HeaderElements] :  element was clicked
+2025-05-08 17:24:39   INFO [org.languageTest.LanguageTest] : Browser was closed
+2025-05-08 17:34:11   INFO [org.languageTest.LanguageTest] : Browser was opened
+2025-05-08 17:34:20   INFO [org.pages.HomePage] : Login page was opened with url https://thelace.com.ua
+2025-05-08 17:34:20   INFO [org.pages.HomePage] :  element is displayed
+2025-05-08 17:34:20   INFO [org.pages.HomePage] : Element is displayed as expected
+2025-05-08 17:34:20   INFO [org.pages.HomePage] : Text in element matches expected text: ДО КОЛЕКЦІЇ
+2025-05-08 17:34:21   INFO [org.pages.elements.HeaderElements] :  element was clicked
+2025-05-08 17:34:21   INFO [org.pages.HomePage] : Language/currency notice was closed.
+2025-05-08 17:34:32  ERROR [org.pages.HomePage] : Error while working with element: Expected condition failed: Element is not clickable [[ChromeDriver: chrome on WINDOWS (533de4effdd5bfbea9e7d1c49f1d169d)] -> xpath: (//a[contains(@href, '/en') and contains(., 'ENG')])[1]] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.15'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.184, chrome: {chromedriverVersion: 138.0.7204.183 (e90faf484dd..., userDataDir: C:\Users\dora\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:65139}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:65139/devtoo..., se:cdpVersion: 138.0.7204.184, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 533de4effdd5bfbea9e7d1c49f1d169d
+2025-05-08 17:34:33   INFO [org.languageTest.LanguageTest] : Browser was closed
+2025-05-08 17:38:25   INFO [org.languageTest.LanguageTest] : Browser was opened
+2025-05-08 17:38:31   INFO [org.pages.HomePage] : Login page was opened with url https://thelace.com.ua
+2025-05-08 17:38:31   INFO [org.pages.HomePage] :  element is displayed
+2025-05-08 17:38:31   INFO [org.pages.HomePage] : Element is displayed as expected
+2025-05-08 17:38:31   INFO [org.pages.HomePage] : Text in element matches expected text: ДО КОЛЕКЦІЇ
+2025-05-08 17:38:31   INFO [org.pages.HomePage] : Language/currency notice was closed.
+2025-05-08 17:38:32   INFO [org.pages.elements.HeaderElements] :  element was clicked
+2025-05-08 17:38:36   INFO [org.pages.HomePage] : ENG element was clicked
+2025-05-08 17:38:37   INFO [org.languageTest.LanguageTest] : Browser was closed
+2025-05-08 17:42:21   INFO [org.languageTest.LanguageTest] : Browser was opened
+2025-05-08 17:42:32   INFO [org.pages.HomePage] : Login page was opened with url https://thelace.com.ua
+2025-05-08 17:42:32   INFO [org.pages.HomePage] :  element is displayed
+2025-05-08 17:42:32   INFO [org.pages.HomePage] : Element is displayed as expected
+2025-05-08 17:42:32   INFO [org.pages.HomePage] : Text in element matches expected text: ДО КОЛЕКЦІЇ
+2025-05-08 17:42:32   INFO [org.pages.HomePage] : Language/currency notice was closed.
+2025-05-08 17:42:32   INFO [org.pages.elements.HeaderElements] :  element was clicked
+2025-05-08 17:42:37   INFO [org.pages.HomePage] : ENG element was clicked
+2025-05-08 17:42:38   INFO [org.languageTest.LanguageTest] : Browser was closed
+2025-05-08 17:44:30   INFO [org.languageTest.LanguageTest] : Browser was opened
+2025-05-08 17:44:36   INFO [org.pages.HomePage] : Login page was opened with url https://thelace.com.ua
+2025-05-08 17:44:36   INFO [org.pages.HomePage] :  element is displayed
+2025-05-08 17:44:36   INFO [org.pages.HomePage] : Element is displayed as expected
+2025-05-08 17:44:36   INFO [org.pages.HomePage] : Text in element matches expected text: ДО КОЛЕКЦІЇ
+2025-05-08 17:44:36   INFO [org.pages.HomePage] : Language/currency notice was closed.
+2025-05-08 17:44:36   INFO [org.pages.elements.HeaderElements] :  element was clicked
+2025-05-08 17:44:41   INFO [org.pages.HomePage] : ENG element was clicked
+2025-05-08 17:44:41   INFO [org.pages.HomePage] :  element is displayed
+2025-05-08 17:44:41   INFO [org.pages.HomePage] : Element is displayed as expected
+2025-05-08 17:44:41   INFO [org.pages.HomePage] : Text in element matches expected text: SHOP NOW
+2025-05-08 17:44:42   INFO [org.languageTest.LanguageTest] : Browser was closed
+2025-06-08 11:23:20   INFO [org.loginTest.LoginTest] : Browser was opened
+2025-06-08 11:23:36  ERROR [org.pages.elements.HeaderElements] : Error while working with element: Expected condition failed: Element is not clickable Proxy element for: DefaultElementLocator 'By.xpath: //a[@data-target='login-panel']' (tried for 10 second(s) with 500 milliseconds interval)
+2025-06-08 11:23:37   INFO [org.loginTest.LoginTest] : Browser was closed
+2025-06-08 11:24:41   INFO [org.loginTest.LoginTest] : Browser was opened
+2025-06-08 11:24:46   INFO [org.pages.HomePage] : Login page was opened with url https://thelace.com.ua
+2025-06-08 11:24:47   INFO [org.pages.elements.HeaderElements] :  element was clicked
+2025-06-08 11:24:47  ERROR [org.pages.LoginPage] : Error while working with element: invalid element state
+  (Session info: chrome=138.0.7204.184)
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.15'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [82ceb29045f822f8b83ee29a9ddac68c, clearElement {id=f.965AC0E5AFDA9199BF1F0A79C0963188.d.9AD9CEDE40329006CE250DA690D56DC7.e.1534}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.184, chrome: {chromedriverVersion: 138.0.7204.183 (e90faf484dd..., userDataDir: C:\Users\dora\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59228}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:59228/devtoo..., se:cdpVersion: 138.0.7204.184, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (82ceb29045f822f8b83ee29a9ddac68c)] -> xpath: //div[@class='login-panel offscreen-panel open']//label[@for='panel_username']]
+Session ID: 82ceb29045f822f8b83ee29a9ddac68c
+2025-06-08 11:24:48   INFO [org.loginTest.LoginTest] : Browser was closed
+2025-06-08 11:28:07   INFO [org.loginTest.LoginTest] : Browser was opened
+2025-06-08 11:28:13   INFO [org.pages.HomePage] : Login page was opened with url https://thelace.com.ua
+2025-06-08 11:28:13   INFO [org.pages.elements.HeaderElements] :  element was clicked
+2025-06-08 11:28:15  ERROR [org.pages.LoginPage] : Error while working with element: invalid element state
+  (Session info: chrome=138.0.7204.184)
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.15'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [4bc0f4422d98a76157616870ba75ca0c, clearElement {id=f.559EB3CBADE597C8B2C887E569FF2EF6.d.61E84134B6FD27C62DB2A47511649F56.e.1532}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.184, chrome: {chromedriverVersion: 138.0.7204.183 (e90faf484dd..., userDataDir: C:\Users\dora\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59409}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:59409/devtoo..., se:cdpVersion: 138.0.7204.184, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (4bc0f4422d98a76157616870ba75ca0c)] -> xpath: //div[@class='login-panel offscreen-panel open']//label[@for='panel_username']]
+Session ID: 4bc0f4422d98a76157616870ba75ca0c
+2025-06-08 11:28:16   INFO [org.loginTest.LoginTest] : Browser was closed
+2025-06-08 11:31:20   INFO [org.loginTest.LoginTest] : Browser was opened
+2025-06-08 11:31:25   INFO [org.pages.HomePage] : Login page was opened with url https://thelace.com.ua
+2025-06-08 11:31:25   INFO [org.pages.HomePage] : Language/currency notice was closed.
+2025-06-08 11:31:26   INFO [org.pages.elements.HeaderElements] :  element was clicked
+2025-06-08 11:31:26  ERROR [org.pages.LoginPage] : Error while working with element: invalid element state
+  (Session info: chrome=138.0.7204.184)
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.15'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [03df46b04677a4d679eceb1e2f0620ff, clearElement {id=f.FC1A22D19383B14D526A22F7B0AC0C02.d.88DCA4F466B1C2230FF08E7EB1A54E04.e.1549}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.184, chrome: {chromedriverVersion: 138.0.7204.183 (e90faf484dd..., userDataDir: C:\Users\dora\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59566}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:59566/devtoo..., se:cdpVersion: 138.0.7204.184, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (03df46b04677a4d679eceb1e2f0620ff)] -> xpath: //div[@class='login-panel offscreen-panel open']//label[@for='panel_username']]
+Session ID: 03df46b04677a4d679eceb1e2f0620ff
+2025-06-08 11:31:27   INFO [org.loginTest.LoginTest] : Browser was closed
+2025-06-08 11:31:57   INFO [org.loginTest.LoginTest] : Browser was opened
+2025-06-08 11:31:59   INFO [org.pages.HomePage] : Login page was opened with url https://thelace.com.ua
+2025-06-08 11:32:03   INFO [org.pages.HomePage] : Language/currency notice was closed.
+2025-06-08 11:32:04   INFO [org.pages.elements.HeaderElements] :  element was clicked
+2025-06-08 11:32:04  ERROR [org.pages.LoginPage] : Error while working with element: invalid element state
+  (Session info: chrome=138.0.7204.184)
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.15'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [37fa599658f4d0419a2bbc10a5073c0d, clearElement {id=f.91F617E5A02C45ABB94FC999F8AAA36B.d.8414D48FE851EFA5656C712A409345AC.e.1551}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.184, chrome: {chromedriverVersion: 138.0.7204.183 (e90faf484dd..., userDataDir: C:\Users\dora\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59646}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:59646/devtoo..., se:cdpVersion: 138.0.7204.184, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (37fa599658f4d0419a2bbc10a5073c0d)] -> xpath: //div[@class='login-panel offscreen-panel open']//label[@for='panel_username']]
+Session ID: 37fa599658f4d0419a2bbc10a5073c0d
+2025-06-08 11:32:06   INFO [org.loginTest.LoginTest] : Browser was closed
+2025-06-08 11:44:42   INFO [org.loginTest.LoginTest] : Browser was opened
+2025-06-08 11:44:48   INFO [org.pages.HomePage] : Login page was opened with url https://thelace.com.ua
+2025-06-08 11:44:48   INFO [org.pages.HomePage] : Language/currency notice was closed.
+2025-06-08 11:44:49   INFO [org.pages.elements.HeaderElements] :  element was clicked
+2025-06-08 11:44:54   WARN [org.pages.HomePage] : No language notice found or couldn't close it.
+2025-06-08 11:44:54  ERROR [org.pages.LoginPage] : Error while working with element: invalid element state
+  (Session info: chrome=138.0.7204.184)
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.15'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [55a069ab6393bdd7df0d6e792a26cb97, clearElement {id=f.823AA0C4EB544CACEF669F7EFBC7885B.d.B8FFE5B9361AD41BE438EF8A332D0DFD.e.1530}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.184, chrome: {chromedriverVersion: 138.0.7204.183 (e90faf484dd..., userDataDir: C:\Users\dora\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60394}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:60394/devtoo..., se:cdpVersion: 138.0.7204.184, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (55a069ab6393bdd7df0d6e792a26cb97)] -> xpath: //div[@class='login-panel offscreen-panel open']//label[@for='panel_username']]
+Session ID: 55a069ab6393bdd7df0d6e792a26cb97
+2025-06-08 11:44:55   INFO [org.loginTest.LoginTest] : Browser was closed
+2025-06-08 11:47:50   INFO [org.loginTest.LoginTest] : Browser was opened
+2025-06-08 11:47:56   INFO [org.pages.HomePage] : Login page was opened with url https://thelace.com.ua
+2025-06-08 11:47:56   INFO [org.pages.HomePage] : Language/currency notice was closed.
+2025-06-08 11:47:57   INFO [org.pages.elements.HeaderElements] :  element was clicked
+2025-06-08 11:48:02   WARN [org.pages.HomePage] : No language notice found or couldn't close it.
+2025-06-08 11:48:03   INFO [org.pages.LoginPage] :  element was clicked
+2025-06-08 11:48:03  ERROR [org.pages.LoginPage] : Error while working with element: invalid element state
+  (Session info: chrome=138.0.7204.184)
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.15'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e0dfeac656dc2cbfc6a79355a9095e80, clearElement {id=f.0F046D06A4DE3BE7EEA94AF46BC240D0.d.D259C0D2980EDB22843FEE240EFF9E63.e.1535}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.184, chrome: {chromedriverVersion: 138.0.7204.183 (e90faf484dd..., userDataDir: C:\Users\dora\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60560}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:60560/devtoo..., se:cdpVersion: 138.0.7204.184, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (e0dfeac656dc2cbfc6a79355a9095e80)] -> xpath: //div[@class='login-panel offscreen-panel open']//label[@for='panel_username']]
+Session ID: e0dfeac656dc2cbfc6a79355a9095e80
+2025-06-08 11:48:03   INFO [org.loginTest.LoginTest] : Browser was closed
+2025-06-08 11:59:46   INFO [org.loginTest.LoginTest] : Browser was opened
+2025-06-08 11:59:51   INFO [org.pages.HomePage] : Login page was opened with url https://thelace.com.ua
+2025-06-08 11:59:51   INFO [org.pages.HomePage] : Language/currency notice was closed.
+2025-06-08 11:59:51   INFO [org.pages.elements.HeaderElements] :  element was clicked
+2025-06-08 11:59:57   WARN [org.pages.HomePage] : No language notice found or couldn't close it.
+2025-06-08 11:59:57   INFO [org.pages.LoginPage] : laceqa@gmail.com was entered in element Ім'я користувача чи e-mail
+2025-06-08 11:59:57   INFO [org.pages.LoginPage] : 123456qwerty was entered in element Пароль
+2025-06-08 11:59:58   INFO [org.pages.LoginPage] : УВІЙТИ element was clicked
+2025-06-08 11:59:59   INFO [org.loginTest.LoginTest] : Browser was closed
+2025-06-08 12:21:19   INFO [org.loginTest.LoginTest] : Browser was opened
+2025-06-08 12:21:26   INFO [org.pages.HomePage] : Login page was opened with url https://thelace.com.ua
+2025-06-08 12:21:26   INFO [org.pages.HomePage] : Language/currency notice was closed.
+2025-06-08 12:21:28   INFO [org.pages.elements.HeaderElements] :  element was clicked
+2025-06-08 12:21:33   WARN [org.pages.HomePage] : No language notice found or couldn't close it.
+2025-06-08 12:21:34   INFO [org.pages.LoginPage] : laceqa@gmail.com was entered in element Ім'я користувача чи e-mail
+2025-06-08 12:21:34   INFO [org.pages.LoginPage] : 123456qwerty was entered in element Пароль
+2025-06-08 12:21:35   INFO [org.pages.LoginPage] : УВІЙТИ element was clicked
+2025-06-08 12:21:39  ERROR [org.pages.elements.HeaderElements] : Error while working with element: stale element reference: stale element not found
+  (Session info: chrome=138.0.7204.184)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#stale_element_reference
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.15'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [799b93e6b6c02ee730d61d1a27044166, clickElement {id=f.B3567152D99B0BE85B51C2157F54BC45.d.462CDA3C2114AD23E7767E6AC3070889.e.115}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.184, chrome: {chromedriverVersion: 138.0.7204.183 (e90faf484dd..., userDataDir: C:\Users\dora\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62030}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:62030/devtoo..., se:cdpVersion: 138.0.7204.184, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (799b93e6b6c02ee730d61d1a27044166)] -> xpath: //a[@data-target='login-panel']]
+Session ID: 799b93e6b6c02ee730d61d1a27044166
+2025-06-08 12:21:40   INFO [org.loginTest.LoginTest] : Browser was closed
+2025-06-08 12:23:46   INFO [org.loginTest.LoginTest] : Browser was opened
+2025-06-08 12:23:51   INFO [org.pages.HomePage] : Login page was opened with url https://thelace.com.ua
+2025-06-08 12:23:51   INFO [org.pages.HomePage] : Language/currency notice was closed.
+2025-06-08 12:23:52   INFO [org.pages.elements.HeaderElements] :  element was clicked
+2025-06-08 12:23:52   INFO [org.pages.HomePage] : Language/currency notice was closed.
+2025-06-08 12:23:53   INFO [org.pages.LoginPage] : laceqa@gmail.com was entered in element Ім'я користувача чи e-mail
+2025-06-08 12:23:53   INFO [org.pages.LoginPage] : 123456qwerty was entered in element Пароль
+2025-06-08 12:23:54   INFO [org.pages.LoginPage] : УВІЙТИ element was clicked
+2025-06-08 12:23:58  ERROR [org.pages.elements.HeaderElements] : Error while working with element: stale element reference: stale element not found
+  (Session info: chrome=138.0.7204.184)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#stale_element_reference
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.15'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [39959a77f9f55b778c59872b5a903cdd, clickElement {id=f.EE9BD4444DA87696D18DCCD7E53E0875.d.682C9586E990D287E7BD346BB9BC2753.e.113}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.184, chrome: {chromedriverVersion: 138.0.7204.183 (e90faf484dd..., userDataDir: C:\Users\dora\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62176}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:62176/devtoo..., se:cdpVersion: 138.0.7204.184, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (39959a77f9f55b778c59872b5a903cdd)] -> xpath: //div[@class='header-main header-contents has-center logo-center']//a[@href='https://thelace.com.ua/my-account/'and not(@class ='lang-item active')]]
+Session ID: 39959a77f9f55b778c59872b5a903cdd
+2025-06-08 12:23:59   INFO [org.loginTest.LoginTest] : Browser was closed
+2025-06-08 12:25:49   INFO [org.loginTest.LoginTest] : Browser was opened
+2025-06-08 12:25:54   INFO [org.pages.HomePage] : Login page was opened with url https://thelace.com.ua
+2025-06-08 12:25:54   INFO [org.pages.HomePage] : Language/currency notice was closed.
+2025-06-08 12:25:55   INFO [org.pages.elements.HeaderElements] :  element was clicked
+2025-06-08 12:26:00   WARN [org.pages.HomePage] : No language notice found or couldn't close it.
+2025-06-08 12:26:00   INFO [org.pages.LoginPage] : laceqa@gmail.com was entered in element Ім'я користувача чи e-mail
+2025-06-08 12:26:01   INFO [org.pages.LoginPage] : 123456qwerty was entered in element Пароль
+2025-06-08 12:26:01   INFO [org.pages.LoginPage] : УВІЙТИ element was clicked
+2025-06-08 12:26:07  ERROR [org.pages.elements.HeaderElements] : Error while working with element: stale element reference: stale element not found
+  (Session info: chrome=138.0.7204.184)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#stale_element_reference
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.15'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [4afccbe3dffd7803526b4247019b65f0, clickElement {id=f.BB02551FC319B33204EFF58DDDC7238A.d.3FAA439D85D42AC923293735AAC9EB9F.e.113}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.184, chrome: {chromedriverVersion: 138.0.7204.183 (e90faf484dd..., userDataDir: C:\Users\dora\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62308}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:62308/devtoo..., se:cdpVersion: 138.0.7204.184, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (4afccbe3dffd7803526b4247019b65f0)] -> xpath: //div[@class='header-main header-contents has-center logo-center']//a[@href='https://thelace.com.ua/my-account/'and not(@class ='lang-item active')]]
+Session ID: 4afccbe3dffd7803526b4247019b65f0
+2025-06-08 12:26:08   INFO [org.loginTest.LoginTest] : Browser was closed
+2025-06-08 12:30:10   INFO [org.loginTest.LoginTest] : Browser was opened
+2025-06-08 12:30:16   INFO [org.pages.HomePage] : Login page was opened with url https://thelace.com.ua
+2025-06-08 12:30:16   INFO [org.pages.HomePage] : Language/currency notice was closed.
+2025-06-08 12:30:17   INFO [org.pages.elements.HeaderElements] :  element was clicked
+2025-06-08 12:30:22   WARN [org.pages.HomePage] : No language notice found or couldn't close it.
+2025-06-08 12:30:22   INFO [org.pages.LoginPage] : laceqa@gmail.com was entered in element Ім'я користувача чи e-mail
+2025-06-08 12:30:23   INFO [org.pages.LoginPage] : 123456qwerty was entered in element Пароль
+2025-06-08 12:30:23   INFO [org.pages.LoginPage] : УВІЙТИ element was clicked
+2025-06-08 12:30:29  ERROR [org.pages.elements.HeaderElements] : Error while working with element: stale element reference: stale element not found
+  (Session info: chrome=138.0.7204.184)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#stale_element_reference
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.15'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [4781a706eee9334082e23fab4d40a056, clickElement {id=f.74E7D0F9626DEAA0487627737ECD952E.d.0C00F453BCD0C231BBF683D229EF6320.e.113}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.184, chrome: {chromedriverVersion: 138.0.7204.183 (e90faf484dd..., userDataDir: C:\Users\dora\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62536}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:62536/devtoo..., se:cdpVersion: 138.0.7204.184, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (4781a706eee9334082e23fab4d40a056)] -> xpath: //div[@class='header-main header-contents has-center logo-center']//a[@href='https://thelace.com.ua/my-account/' and not(contains(@class, 'active'))]]
+Session ID: 4781a706eee9334082e23fab4d40a056
+2025-06-08 12:30:29   INFO [org.loginTest.LoginTest] : Browser was closed
+2025-06-08 12:35:58   INFO [org.loginTest.LoginTest] : Browser was opened
+2025-06-08 12:36:03   INFO [org.pages.HomePage] : Login page was opened with url https://thelace.com.ua
+2025-06-08 12:36:04   INFO [org.pages.HomePage] : Language/currency notice was closed.
+2025-06-08 12:36:04   INFO [org.pages.elements.HeaderElements] :  element was clicked
+2025-06-08 12:36:05   INFO [org.pages.HomePage] : Language/currency notice was closed.
+2025-06-08 12:36:05   INFO [org.pages.LoginPage] : laceqa@gmail.com was entered in element Ім'я користувача чи e-mail
+2025-06-08 12:36:06   INFO [org.pages.LoginPage] : 123456qwerty was entered in element Пароль
+2025-06-08 12:36:06   INFO [org.pages.LoginPage] : УВІЙТИ element was clicked
+2025-06-08 12:36:11   INFO [org.loginTest.LoginTest] : Browser was closed
+2025-06-08 12:38:43   INFO [org.loginTest.LoginTest] : Browser was opened
+2025-06-08 12:38:48   INFO [org.pages.HomePage] : Login page was opened with url https://thelace.com.ua
+2025-06-08 12:38:49   INFO [org.pages.HomePage] : Language/currency notice was closed.
+2025-06-08 12:38:49   INFO [org.pages.elements.HeaderElements] :  element was clicked
+2025-06-08 12:38:55   WARN [org.pages.HomePage] : No language notice found or couldn't close it.
+2025-06-08 12:38:55   INFO [org.pages.LoginPage] : laceqa@gmail.com was entered in element Ім'я користувача чи e-mail
+2025-06-08 12:38:55   INFO [org.pages.LoginPage] : 123456qwerty was entered in element Пароль
+2025-06-08 12:38:56   INFO [org.pages.LoginPage] : УВІЙТИ element was clicked
+2025-06-08 12:39:05   INFO [org.pages.elements.HeaderElements] : Account button (logged user) was clicked
+2025-06-08 12:39:05   INFO [org.loginTest.LoginTest] : Browser was closed
+2025-06-08 12:39:25   INFO [org.loginTest.LoginTest] : Browser was opened
+2025-06-08 12:39:29   INFO [org.pages.HomePage] : Login page was opened with url https://thelace.com.ua
+2025-06-08 12:39:29   INFO [org.pages.HomePage] : Language/currency notice was closed.
+2025-06-08 12:39:30   INFO [org.pages.elements.HeaderElements] :  element was clicked
+2025-06-08 12:39:31   INFO [org.pages.HomePage] : Language/currency notice was closed.
+2025-06-08 12:39:31   INFO [org.pages.LoginPage] : laceqa@gmail.com was entered in element Ім'я користувача чи e-mail
+2025-06-08 12:39:31   INFO [org.pages.LoginPage] : 123456qwerty was entered in element Пароль
+2025-06-08 12:39:32   INFO [org.pages.LoginPage] : УВІЙТИ element was clicked
+2025-06-08 12:39:38   INFO [org.pages.elements.HeaderElements] : Account button (logged user) was clicked
+2025-06-08 12:39:39   INFO [org.loginTest.LoginTest] : Browser was closed
+2025-06-08 12:41:35   INFO [org.loginTest.LoginTest] : Browser was opened
+2025-06-08 12:41:40   INFO [org.pages.HomePage] : Login page was opened with url https://thelace.com.ua
+2025-06-08 12:41:41   INFO [org.pages.HomePage] : Language/currency notice was closed.
+2025-06-08 12:41:41   INFO [org.pages.elements.HeaderElements] :  element was clicked
+2025-06-08 12:41:46   WARN [org.pages.HomePage] : No language notice found or couldn't close it.
+2025-06-08 12:41:47   INFO [org.pages.LoginPage] : laceqa@gmail.com was entered in element Ім'я користувача чи e-mail
+2025-06-08 12:41:47   INFO [org.pages.LoginPage] : 123456qwerty was entered in element Пароль
+2025-06-08 12:41:47   INFO [org.pages.LoginPage] : УВІЙТИ element was clicked
+2025-06-08 12:41:52   INFO [org.loginTest.LoginTest] : Browser was closed
+2025-06-08 12:42:48   INFO [org.loginTest.LoginTest] : Browser was opened
+2025-06-08 12:42:52   INFO [org.pages.HomePage] : Login page was opened with url https://thelace.com.ua
+2025-06-08 12:42:53   INFO [org.pages.HomePage] : Language/currency notice was closed.
+2025-06-08 12:42:53   INFO [org.pages.elements.HeaderElements] :  element was clicked
+2025-06-08 12:42:59   WARN [org.pages.HomePage] : No language notice found or couldn't close it.
+2025-06-08 12:42:59   INFO [org.pages.LoginPage] : laceqa@gmail.com was entered in element Ім'я користувача чи e-mail
+2025-06-08 12:43:00   INFO [org.pages.LoginPage] : 123456qwerty was entered in element Пароль
+2025-06-08 12:43:01   INFO [org.pages.LoginPage] : УВІЙТИ element was clicked
+2025-06-08 12:43:08   INFO [org.pages.elements.HeaderElements] : Account button (logged user) was clicked
+2025-06-08 12:43:09   INFO [org.loginTest.LoginTest] : Browser was closed
+2025-06-08 12:44:55   INFO [org.loginTest.LoginTest] : Browser was opened
+2025-06-08 12:45:00   INFO [org.pages.HomePage] : Login page was opened with url https://thelace.com.ua
+2025-06-08 12:45:00   INFO [org.pages.HomePage] : Language/currency notice was closed.
+2025-06-08 12:45:01   INFO [org.pages.elements.HeaderElements] :  element was clicked
+2025-06-08 12:45:01   INFO [org.pages.HomePage] : Language/currency notice was closed.
+2025-06-08 12:45:02   INFO [org.pages.LoginPage] : laceqa@gmail.com was entered in element Ім'я користувача чи e-mail
+2025-06-08 12:45:02   INFO [org.pages.LoginPage] : 123456qwerty was entered in element Пароль
+2025-06-08 12:45:02   INFO [org.pages.LoginPage] : УВІЙТИ element was clicked
+2025-06-08 12:45:06   WARN [org.pages.elements.HeaderElements] : Stale element detected. Retrying... [1/3]
+2025-06-08 12:45:09   INFO [org.pages.elements.HeaderElements] : Account button (logged user) was clicked
+2025-06-08 12:45:10   INFO [org.loginTest.LoginTest] : Browser was closed
+2025-06-08 13:10:26   INFO [org.loginTest.LoginTest] : Browser was opened
+2025-06-08 13:10:32   INFO [org.pages.HomePage] : Login page was opened with url https://thelace.com.ua
+2025-06-08 13:10:33   INFO [org.pages.HomePage] : Language/currency notice was closed.
+2025-06-08 13:10:34   INFO [org.pages.elements.HeaderElements] :  element was clicked
+2025-06-08 13:10:39   WARN [org.pages.HomePage] : No language notice found or couldn't close it.
+2025-06-08 13:10:40   INFO [org.pages.LoginPage] : laceqa@gmail.com was entered in element Ім'я користувача чи e-mail
+2025-06-08 13:10:40   INFO [org.pages.LoginPage] : 123456qwerty was entered in element Пароль
+2025-06-08 13:10:41   INFO [org.pages.LoginPage] : УВІЙТИ element was clicked
+2025-06-08 13:10:46   WARN [org.pages.elements.HeaderElements] : Stale element detected. Retrying... [1/3]
+2025-06-08 13:10:50   INFO [org.pages.elements.HeaderElements] : Account button (logged user) was clicked
+2025-06-08 13:10:51   INFO [org.loginTest.LoginTest] : Browser was closed
+2025-06-08 13:12:01   INFO [org.loginTest.LoginTest] : Browser was opened
+2025-06-08 13:12:06   INFO [org.pages.HomePage] : Login page was opened with url https://thelace.com.ua
+2025-06-08 13:12:07   INFO [org.pages.HomePage] : Language/currency notice was closed.
+2025-06-08 13:12:07   INFO [org.pages.elements.HeaderElements] :  element was clicked
+2025-06-08 13:12:13   WARN [org.pages.HomePage] : No language notice found or couldn't close it.
+2025-06-08 13:12:13   INFO [org.pages.LoginPage] : laceqa@gmail.com was entered in element Ім'я користувача чи e-mail
+2025-06-08 13:12:13   INFO [org.pages.LoginPage] : 123456qwerty was entered in element Пароль
+2025-06-08 13:12:14   INFO [org.pages.LoginPage] : УВІЙТИ element was clicked
+2025-06-08 13:12:18   WARN [org.pages.elements.HeaderElements] : Stale element detected. Retrying... [1/3]
+2025-06-08 13:12:21   INFO [org.pages.elements.HeaderElements] : Account button (logged user) was clicked
+2025-06-08 13:12:22   INFO [org.loginTest.LoginTest] : Browser was closed
+2025-06-08 13:13:44   INFO [org.loginTest.LoginTest] : Browser was opened
+2025-06-08 13:13:49   INFO [org.pages.HomePage] : Login page was opened with url https://thelace.com.ua
+2025-06-08 13:13:50   INFO [org.pages.HomePage] : Language/currency notice was closed.
+2025-06-08 13:13:50   INFO [org.pages.elements.HeaderElements] :  element was clicked
+2025-06-08 13:13:55   WARN [org.pages.HomePage] : No language notice found or couldn't close it.
+2025-06-08 13:13:56   INFO [org.pages.LoginPage] : laceqa@gmail.com was entered in element Ім'я користувача чи e-mail
+2025-06-08 13:13:56   INFO [org.pages.LoginPage] : 123456qwerty was entered in element Пароль
+2025-06-08 13:13:57   INFO [org.pages.LoginPage] : УВІЙТИ element was clicked
+2025-06-08 13:14:01   WARN [org.pages.elements.HeaderElements] : Stale element detected. Retrying... [1/3]
+2025-06-08 13:14:05   INFO [org.pages.elements.HeaderElements] : Account button (logged user) was clicked
+2025-06-08 13:14:05   INFO [org.loginTest.LoginTest] : Browser was closed
+2025-06-08 13:27:35   INFO [org.loginTest.LoginTest] : Browser was opened
+2025-06-08 13:27:41   INFO [org.pages.HomePage] : Login page was opened with url https://thelace.com.ua
+2025-06-08 13:27:41   INFO [org.pages.HomePage] : Language/currency notice was closed.
+2025-06-08 13:27:41   INFO [org.pages.elements.HeaderElements] :  element was clicked
+2025-06-08 13:27:47   WARN [org.pages.HomePage] : No language notice found or couldn't close it.
+2025-06-08 13:27:47   INFO [org.pages.LoginPage] : laceqa@gmail.com was entered in element Ім'я користувача чи e-mail
+2025-06-08 13:27:48   INFO [org.pages.LoginPage] : 123456qwerty was entered in element Пароль
+2025-06-08 13:27:48   INFO [org.pages.LoginPage] : УВІЙТИ element was clicked
+2025-06-08 13:27:57   INFO [org.pages.elements.HeaderElements] : Account button (logged user) was clicked
+2025-06-08 13:27:57   INFO [org.pages.MyAccountOrdersPage] : URL is expected
+2025-06-08 13:27:57   INFO [org.pages.MyAccountOrdersPage] : Text in element matches expected text: ЗАМОВЛЕННЯ
+2025-06-08 13:27:57   INFO [org.loginTest.LoginTest] : Browser was closed

@@ -562,3 +562,21 @@ Session ID: 4781a706eee9334082e23fab4d40a056
 2025-06-08 13:27:57   INFO [org.pages.MyAccountOrdersPage] : URL is expected
 2025-06-08 13:27:57   INFO [org.pages.MyAccountOrdersPage] : Text in element matches expected text: ЗАМОВЛЕННЯ
 2025-06-08 13:27:57   INFO [org.loginTest.LoginTest] : Browser was closed
+2025-07-08 00:55:18   INFO [org.workWithElementsTest.ContactsTest] : Browser was opened
+2025-07-08 00:55:23   INFO [org.pages.HomePage] : Login page was opened with url https://thelace.com.ua
+2025-07-08 00:55:26   INFO [org.pages.HomePage] : Контакти element was clicked
+2025-07-08 00:55:27   INFO [org.workWithElementsTest.ContactsTest] : Browser was closed
+2025-07-08 01:06:04   INFO [org.workWithElementsTest.ContactsTest] : Browser was opened
+2025-07-08 01:06:09   INFO [org.pages.HomePage] : Login page was opened with url https://thelace.com.ua
+2025-07-08 01:06:12   INFO [org.pages.HomePage] : Контакти element was clicked
+2025-07-08 01:06:12   INFO [org.pages.ContactPage] : URL is expected
+2025-07-08 01:06:12   INFO [org.pages.ContactPage] : Text in element matches expected text: КОНТАКТИ
+2025-07-08 01:06:13   INFO [org.workWithElementsTest.ContactsTest] : Browser was closed
+2025-07-08 01:12:11   INFO [org.workWithElementsTest.ContactsTest] : Browser was opened
+2025-07-08 01:12:16   INFO [org.pages.HomePage] : Login page was opened with url https://thelace.com.ua
+2025-07-08 01:12:19   INFO [org.pages.HomePage] : Контакти element was clicked
+2025-07-08 01:12:19   INFO [org.pages.ContactPage] : URL is expected
+2025-07-08 01:12:19   INFO [org.pages.ContactPage] : Text in element matches expected text: КОНТАКТИ
+2025-07-08 01:12:19   INFO [org.pages.ContactPage] : EMAIL element is displayed
+2025-07-08 01:12:19   INFO [org.pages.ContactPage] : Element is displayed as expected
+2025-07-08 01:12:19   INFO [org.workWithElementsTest.ContactsTest] : Browser was closed

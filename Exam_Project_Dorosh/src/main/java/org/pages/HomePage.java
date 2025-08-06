@@ -24,9 +24,13 @@ public class HomePage extends ParentPage{
     @FindBy(xpath = "(//a[contains(@href, '/en') and contains(., 'ENG')])[1]")
     private WebElement buttonEnglishLanguage;
 
+    @FindBy(xpath = "//div[@class='textwidget']//a[text() = 'Контакти']")
+    private WebElement linkContacts;
+
     public HomePage(WebDriver webDriver) {
         super(webDriver);
     }
+
 
     @Override
     protected String getRelativeURL() {
@@ -42,6 +46,11 @@ public class HomePage extends ParentPage{
     public HomePage clickOnButtonEnglishLanguage() {
                clickOnElement(buttonEnglishLanguage);
                return this;
+    }
+
+    public  ContactPage clickOnLinkContacts() {
+        clickOnElement(linkContacts);
+        return new ContactPage(webDriver);
     }
 
     public HeaderElements getHeaderElement() {

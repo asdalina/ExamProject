@@ -754,3 +754,108 @@ Session ID: 4781a706eee9334082e23fab4d40a056
 2025-07-08 04:20:27   INFO [org.pages.NewInPage] : Назва товару - Топ із тенселу з тонким поясом лимонний
 2025-07-08 04:20:27   INFO [org.pages.NewInPage] :  element was clicked
 2025-07-08 04:20:28   INFO [org.cartTest.CartTest] : Browser was closed
+2025-07-08 09:18:05   INFO [org.cartTest.CartTest] : Browser was opened
+2025-07-08 09:18:13   INFO [org.pages.HomePage] : Login page was opened with url https://thelace.com.ua
+2025-07-08 09:18:13   INFO [org.pages.HomePage] : Language/currency notice was closed.
+2025-07-08 09:18:14   INFO [org.pages.HomePage] :  element was clicked
+2025-07-08 09:18:20   INFO [org.pages.HomePage] : Новинки element was clicked
+2025-07-08 09:18:20   INFO [org.pages.NewInPage] : URL is expected
+2025-07-08 09:18:21   INFO [org.pages.NewInPage] : Назва товару - Топ із тенселу з тонким поясом лимонний
+2025-07-08 09:18:21   INFO [org.pages.NewInPage] :  element was clicked
+2025-07-08 09:18:22   INFO [org.cartTest.CartTest] : Browser was closed
+2025-07-08 09:21:20   INFO [org.cartTest.CartTest] : Browser was opened
+2025-07-08 09:21:32   INFO [org.pages.HomePage] : Login page was opened with url https://thelace.com.ua
+2025-07-08 09:21:32   INFO [org.pages.HomePage] : Language/currency notice was closed.
+2025-07-08 09:21:33   INFO [org.pages.HomePage] :  element was clicked
+2025-07-08 09:21:39   INFO [org.pages.HomePage] : Новинки element was clicked
+2025-07-08 09:21:39   INFO [org.pages.NewInPage] : URL is expected
+2025-07-08 09:21:39   INFO [org.pages.NewInPage] : Назва товару - Топ із тенселу з тонким поясом лимонний
+2025-07-08 09:21:45   INFO [org.pages.NewInPage] :  element was clicked
+2025-07-08 09:21:46   INFO [org.cartTest.CartTest] : Browser was closed
+2025-07-08 09:24:43   INFO [org.cartTest.CartTest] : Browser was opened
+2025-07-08 09:24:48   INFO [org.pages.HomePage] : Login page was opened with url https://thelace.com.ua
+2025-07-08 09:24:48   INFO [org.pages.HomePage] : Language/currency notice was closed.
+2025-07-08 09:24:49   INFO [org.pages.HomePage] :  element was clicked
+2025-07-08 09:24:54   INFO [org.pages.HomePage] : Новинки element was clicked
+2025-07-08 09:24:54   INFO [org.pages.NewInPage] : URL is expected
+2025-07-08 09:24:54   INFO [org.pages.NewInPage] : Назва товару - NEW COLLECTION
+Топ із тенселу з тонким поясом лимонний
+1,490 грн.
+РОЗМІРИ: XS S M L
+2025-07-08 09:25:00   INFO [org.pages.NewInPage] :  element was clicked
+2025-07-08 09:25:01   INFO [org.cartTest.CartTest] : Browser was closed
+2025-07-08 09:25:47   INFO [org.cartTest.CartTest] : Browser was opened
+2025-07-08 09:25:52   INFO [org.pages.HomePage] : Login page was opened with url https://thelace.com.ua
+2025-07-08 09:25:52   INFO [org.pages.HomePage] : Language/currency notice was closed.
+2025-07-08 09:25:53   INFO [org.pages.HomePage] :  element was clicked
+2025-07-08 09:25:58   INFO [org.pages.HomePage] : Новинки element was clicked
+2025-07-08 09:25:59   INFO [org.pages.NewInPage] : URL is expected
+2025-07-08 09:25:59   INFO [org.pages.NewInPage] : Назва товару - Топ із тенселу з тонким поясом лимонний
+2025-07-08 09:26:05   INFO [org.pages.NewInPage] :  element was clicked
+2025-07-08 09:26:06   INFO [org.cartTest.CartTest] : Browser was closed
+2025-07-08 09:30:11   INFO [org.cartTest.CartTest] : Browser was opened
+2025-07-08 09:30:16   INFO [org.pages.HomePage] : Login page was opened with url https://thelace.com.ua
+2025-07-08 09:30:17   INFO [org.pages.HomePage] : Language/currency notice was closed.
+2025-07-08 09:30:17   INFO [org.pages.HomePage] :  element was clicked
+2025-07-08 09:30:23   INFO [org.pages.HomePage] : Новинки element was clicked
+2025-07-08 09:30:23   INFO [org.pages.NewInPage] : URL is expected
+2025-07-08 09:30:23   INFO [org.pages.NewInPage] : Назва товару - Топ із тенселу з тонким поясом лимонний
+2025-07-08 09:30:30   INFO [org.pages.NewInPage] :  element was clicked
+2025-07-08 09:30:31   INFO [org.cartTest.CartTest] : Browser was closed
+2025-07-08 09:33:19   INFO [org.cartTest.CartTest] : Browser was opened
+2025-07-08 09:33:24   INFO [org.pages.HomePage] : Login page was opened with url https://thelace.com.ua
+2025-07-08 09:33:25   INFO [org.pages.HomePage] : Language/currency notice was closed.
+2025-07-08 09:33:25   INFO [org.pages.HomePage] :  element was clicked
+2025-07-08 09:33:31   INFO [org.pages.HomePage] : Новинки element was clicked
+2025-07-08 09:33:31   INFO [org.pages.NewInPage] : URL is expected
+2025-07-08 09:33:31   INFO [org.pages.NewInPage] : Назва товару - топ із тенселу з тонким поясом лимонний
+2025-07-08 09:33:36   INFO [org.pages.NewInPage] :  element was clicked
+2025-07-08 09:33:37   INFO [org.cartTest.CartTest] : Browser was closed
+2025-07-08 09:36:12   INFO [org.cartTest.CartTest] : Browser was opened
+2025-07-08 09:36:18   INFO [org.pages.HomePage] : Login page was opened with url https://thelace.com.ua
+2025-07-08 09:36:18   INFO [org.pages.HomePage] : Language/currency notice was closed.
+2025-07-08 09:36:19   INFO [org.pages.HomePage] :  element was clicked
+2025-07-08 09:36:25   INFO [org.pages.HomePage] : Новинки element was clicked
+2025-07-08 09:36:25   INFO [org.pages.NewInPage] : URL is expected
+2025-07-08 09:36:25   INFO [org.pages.NewInPage] : Назва товару - топ із тенселу з тонким поясом лимонний
+2025-07-08 09:36:32   INFO [org.pages.NewInPage] :  element was clicked
+2025-07-08 09:36:33  ERROR [org.pages.ProductPage] : Error while working with element: element click intercepted: Element is not clickable at point (983, 590)
+  (Session info: chrome=138.0.7204.184)
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.15'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [678dcf497350fe639a43be004b1a68ec, clickElement {id=f.38BE7CB54DC66DFBCE1A23D604A42EE0.d.C21C073B276209905B7379AB97D68E30.e.7343}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.184, chrome: {chromedriverVersion: 138.0.7204.183 (e90faf484dd..., userDataDir: C:\Users\dora\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61808}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:61808/devtoo..., se:cdpVersion: 138.0.7204.184, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (678dcf497350fe639a43be004b1a68ec)] -> xpath: //button[@class='single_add_to_cart_button button alt']]
+Session ID: 678dcf497350fe639a43be004b1a68ec
+2025-07-08 09:36:34   INFO [org.cartTest.CartTest] : Browser was closed
+2025-07-08 09:40:27   INFO [org.cartTest.CartTest] : Browser was opened
+2025-07-08 09:40:33   INFO [org.pages.HomePage] : Login page was opened with url https://thelace.com.ua
+2025-07-08 09:40:33   INFO [org.pages.HomePage] : Language/currency notice was closed.
+2025-07-08 09:40:33   INFO [org.pages.HomePage] :  element was clicked
+2025-07-08 09:40:39   INFO [org.pages.HomePage] : Новинки element was clicked
+2025-07-08 09:40:39   INFO [org.pages.NewInPage] : URL is expected
+2025-07-08 09:40:39   INFO [org.pages.NewInPage] : Назва товару - топ із тенселу з тонким поясом лимонний
+2025-07-08 09:40:44   INFO [org.pages.NewInPage] :  element was clicked
+2025-07-08 09:40:45   INFO [org.pages.ProductPage] : Назва товару співпала
+2025-07-08 09:40:46  ERROR [org.pages.ProductPage] : Error while working with element: element click intercepted: Element is not clickable at point (983, 590)
+  (Session info: chrome=138.0.7204.184)
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.15'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [8839bfb49672900293df6c649e2d58ca, clickElement {id=f.10F21FF832160CC91F1943FE81B581BC.d.8347D91ED03ABB575A866AAC95881732.e.7464}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.184, chrome: {chromedriverVersion: 138.0.7204.183 (e90faf484dd..., userDataDir: C:\Users\dora\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62008}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:62008/devtoo..., se:cdpVersion: 138.0.7204.184, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (8839bfb49672900293df6c649e2d58ca)] -> xpath: //button[@class='single_add_to_cart_button button alt']]
+Session ID: 8839bfb49672900293df6c649e2d58ca
+2025-07-08 09:40:47   INFO [org.cartTest.CartTest] : Browser was closed
+2025-07-08 09:55:25   INFO [org.cartTest.CartTest] : Browser was opened
+2025-07-08 09:55:34   INFO [org.pages.HomePage] : Login page was opened with url https://thelace.com.ua
+2025-07-08 09:55:34   INFO [org.pages.HomePage] : Language/currency notice was closed.
+2025-07-08 09:55:34   INFO [org.pages.HomePage] :  element was clicked
+2025-07-08 09:55:40   INFO [org.pages.HomePage] : Новинки element was clicked
+2025-07-08 09:55:40   INFO [org.pages.NewInPage] : URL is expected
+2025-07-08 09:55:40   INFO [org.pages.NewInPage] : Назва товару - топ із тенселу з тонким поясом лимонний
+2025-07-08 09:55:47   INFO [org.pages.NewInPage] :  element was clicked
+2025-07-08 09:55:47   INFO [org.pages.ProductPage] : Назва товару співпала
+2025-07-08 09:55:52   INFO [org.pages.ProductPage] : ДОДАТИ В КОШИК element was clicked
+2025-07-08 09:55:53   INFO [org.cartTest.CartTest] : Browser was closed

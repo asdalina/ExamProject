@@ -19,7 +19,10 @@ public class CartTest extends BaseTest {
         String selectedProductName = pageProvider.getNewInPage().getSelectedProductName();
 
         pageProvider.getNewInPage()
-                .clickOnSelectedProduct();
+                .clickOnSelectedProduct()
+                .checkProductTitleContains(selectedProductName)
+                .clickOnButtonAddToBasket()
+                ;
     }
 
 

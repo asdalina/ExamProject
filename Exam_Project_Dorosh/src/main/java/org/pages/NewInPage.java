@@ -9,6 +9,9 @@ public class NewInPage extends ParentPage{
     private Logger logger = Logger.getLogger(getClass());
 
     @FindBy(xpath = "(//div[@class='woocommerce-loop-product__title'])[2]")
+    private WebElement titleOfSelectedProduct;
+
+    @FindBy(xpath = "(//li[contains(@class, 'product type-product')])[2]")
     private WebElement selectedProduct;
 
     public NewInPage(WebDriver webDriver) {
@@ -31,9 +34,9 @@ public class NewInPage extends ParentPage{
     }
 
     public String getSelectedProductName() {
-        String titleOfSelectedProduct = selectedProduct.getText();
-        logger.info("Назва товару - " + titleOfSelectedProduct);
-        return titleOfSelectedProduct;
+        String name = titleOfSelectedProduct.getText().toLowerCase();
+        logger.info("Назва товару - " + name);
+        return name;
 
     }
 

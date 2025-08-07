@@ -1,0 +1,85 @@
+https://github.com/asdalina/ExamProject.git
+
+1.	TC001_SearchNonExistingProduct
+Checking the message in Search if no product is found
+
+Steps
+
+1.Open Home page https://thelace.com.ua
+2.Click “Search” button in header of Home page
+3.Enter non-existed name of product – “qwerty” - in search input
+4.Click Enter button
+
+Expected result
+
+I see text “Не знайдено товарів, що відповідають вашому вибору.”
+
+2.	TC002_switchingToEnglish
+Checking switching between languages
+
+Steps
+
+1.Open Home page https://thelace.com.ua
+2.Check there is link with text “До знижок”
+3.Click on current language button in header of Home page
+4.Select ENG as a language
+
+Expected result
+
+The link is https://thelace.com.ua/en/ now
+There is link with text “Shop now”
+
+3. TC003_validLogin
+Login with valid password
+
+Steps
+
+1.Open Home page https://thelace.com.ua
+2.Click on Account button in header of Home page
+3.Enter valid email into email input - laceqa@gmail.com
+4. Enter valid password into pass input - 123456qwerty
+5.Click Login button
+6. Click on Account button for logged user
+
+Expected result
+
+User is redirected to page with url https://thelace.com.ua/my-account/orders/
+Page has a title “"ЗАМОВЛЕННЯ"
+
+4. TC004_checkContactsTest
+Checking link “Contact us” works
+
+Steps
+
+1.Open Home page https://thelace.com.ua
+2.Click on link “Contact us” at the bottom of the page
+
+Expected result
+
+The link is https://thelace.com.ua/en/contacts/
+We see the text “Contacts” in the title of the page
+We see the text “Email”
+
+5. TC005_addAndDeleteItemFromCart
+Adding and deleting item from the Cart
+
+Steps
+
+1.Open Home page https://thelace.com.ua
+2.Click on hamburger box menu on the left in Home page
+3.Click on New In products in hamburger menu
+4.Check user is redirected to New In page with url  = https://thelace.com.ua/product-category/novynky/
+5.Click on any product (second on the page), remember its name
+6.Check we were redirected to selected product page
+7.Check if name of product on Product Page contains name of product selected on New In Page
+8.Click “Add to basket” button
+9.Click on button “Cart” in the header of Home Page
+10.Click on button “View basket” in Cart Preview Page
+11.Check we are redirected to Cart Page with url = https://thelace.com.ua/cart/
+12.Check Cart Page has a title – "КОШИК"
+13.Check if name of product on Cart Page contains name of product selected on New In Page
+14.Click button “Empty Cart”
+
+Expected result
+
+16.Check there is text “Ваш кошик порожній.” on Cart Page

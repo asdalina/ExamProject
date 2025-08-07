@@ -20,4 +20,8 @@ public class PageProvider {
     public MyAccountOrdersPage getMyAccountPage() {
         return new MyAccountOrdersPage(webDriver);
     }
+
+    public NewInPage getNewInPage() {
+        return new NewInPage(webDriver);
+    }
 }

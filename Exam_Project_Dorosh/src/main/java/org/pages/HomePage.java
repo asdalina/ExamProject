@@ -27,6 +27,13 @@ public class HomePage extends ParentPage{
     @FindBy(xpath = "//div[@class='textwidget']//a[text() = 'Контакти']")
     private WebElement linkContacts;
 
+    @FindBy(xpath = "//div[@class='header-hamburger hamburger-menu']//div[@class='hamburger-box']")
+    private WebElement hamburgerMenu;
+
+    @FindBy(xpath = "(//*[@id='menu-item-123781']/a)[1]")
+    private WebElement linkNewIn;
+
+
     public HomePage(WebDriver webDriver) {
         super(webDriver);
     }
@@ -51,6 +58,15 @@ public class HomePage extends ParentPage{
     public  ContactPage clickOnLinkContacts() {
         clickOnElement(linkContacts);
         return new ContactPage(webDriver);
+    }
+    public HomePage clickOnHamburgerMenu() {
+        clickOnElement(hamburgerMenu);
+        return this;
+    }
+
+    public NewInPage clickOnLinkNewIn() {
+        clickOnElement(linkNewIn);
+        return new NewInPage(webDriver);
     }
 
     public HeaderElements getHeaderElement() {

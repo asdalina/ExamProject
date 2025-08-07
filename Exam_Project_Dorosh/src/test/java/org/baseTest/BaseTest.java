@@ -6,6 +6,7 @@ import org.junit.After;
 import org.junit.Before;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.chrome.ChromeOptions;
 import org.pages.PageProvider;
 
 import java.net.MalformedURLException;
@@ -21,7 +22,9 @@ public class BaseTest {
     public void setUp() {
 
        WebDriverManager.chromedriver().setup();// downloads executive file
-        webDriver = new ChromeDriver();
+        ChromeOptions options = new ChromeOptions();
+        options.addArguments("--disable-notifications");
+        webDriver = new ChromeDriver(options);
         webDriver.manage().window().maximize();
         webDriver.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
         logger.info("Browser was opened");

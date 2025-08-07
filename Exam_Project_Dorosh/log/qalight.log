@@ -859,3 +859,163 @@ Session ID: 8839bfb49672900293df6c649e2d58ca
 2025-07-08 09:55:47   INFO [org.pages.ProductPage] : Назва товару співпала
 2025-07-08 09:55:52   INFO [org.pages.ProductPage] : ДОДАТИ В КОШИК element was clicked
 2025-07-08 09:55:53   INFO [org.cartTest.CartTest] : Browser was closed
+2025-07-08 09:57:36   INFO [org.cartTest.CartTest] : Browser was opened
+2025-07-08 09:57:37   INFO [org.pages.HomePage] : Login page was opened with url https://thelace.com.ua
+2025-07-08 09:57:42   INFO [org.pages.HomePage] : Language/currency notice was closed.
+2025-07-08 09:57:43   INFO [org.pages.HomePage] :  element was clicked
+2025-07-08 09:57:48   INFO [org.pages.HomePage] : Новинки element was clicked
+2025-07-08 09:57:48   INFO [org.pages.NewInPage] : URL is expected
+2025-07-08 09:57:48   INFO [org.pages.NewInPage] : Назва товару - топ із тенселу з тонким поясом лимонний
+2025-07-08 09:57:54   INFO [org.pages.NewInPage] :  element was clicked
+2025-07-08 09:57:55   INFO [org.pages.ProductPage] : Назва товару співпала
+2025-07-08 09:58:00   INFO [org.pages.ProductPage] : ДОДАТИ В КОШИК element was clicked
+2025-07-08 09:58:01   INFO [org.cartTest.CartTest] : Browser was closed
+2025-07-08 12:06:00   INFO [org.cartTest.CartTest] : Browser was opened
+2025-07-08 12:06:05   INFO [org.pages.HomePage] : Login page was opened with url https://thelace.com.ua
+2025-07-08 12:06:06   INFO [org.pages.HomePage] : Language/currency notice was closed.
+2025-07-08 12:06:06   INFO [org.pages.HomePage] :  element was clicked
+2025-07-08 12:06:12   INFO [org.pages.HomePage] : Новинки element was clicked
+2025-07-08 12:06:12   INFO [org.pages.NewInPage] : URL is expected
+2025-07-08 12:06:13   INFO [org.pages.NewInPage] : Назва товару - топ із тенселу з тонким поясом лимонний
+2025-07-08 12:06:19   INFO [org.pages.NewInPage] :  element was clicked
+2025-07-08 12:06:19   INFO [org.pages.ProductPage] : Назва товару співпала
+2025-07-08 12:06:27   INFO [org.pages.ProductPage] : ДОДАТИ В КОШИК element was clicked
+2025-07-08 12:06:28   INFO [org.pages.elements.HeaderElements] :  element was clicked
+2025-07-08 12:06:29   INFO [org.cartTest.CartTest] : Browser was closed
+2025-07-08 12:11:10   INFO [org.cartTest.CartTest] : Browser was opened
+2025-07-08 12:11:15   INFO [org.pages.HomePage] : Login page was opened with url https://thelace.com.ua
+2025-07-08 12:11:16   INFO [org.pages.HomePage] : Language/currency notice was closed.
+2025-07-08 12:11:16   INFO [org.pages.HomePage] :  element was clicked
+2025-07-08 12:11:21   INFO [org.pages.HomePage] : Новинки element was clicked
+2025-07-08 12:11:22   INFO [org.pages.NewInPage] : URL is expected
+2025-07-08 12:11:22   INFO [org.pages.NewInPage] : Назва товару - топ із тенселу з тонким поясом лимонний
+2025-07-08 12:11:28   INFO [org.pages.NewInPage] :  element was clicked
+2025-07-08 12:11:28   INFO [org.pages.ProductPage] : Назва товару співпала
+2025-07-08 12:11:35   INFO [org.pages.ProductPage] : ДОДАТИ В КОШИК element was clicked
+2025-07-08 12:11:36   INFO [org.pages.elements.HeaderElements] :  element was clicked
+2025-07-08 12:11:37   INFO [org.cartTest.CartTest] : Browser was closed
+2025-07-08 12:16:03   INFO [org.cartTest.CartTest] : Browser was opened
+2025-07-08 12:16:08   INFO [org.pages.HomePage] : Login page was opened with url https://thelace.com.ua
+2025-07-08 12:16:08   INFO [org.pages.HomePage] : Language/currency notice was closed.
+2025-07-08 12:16:09   INFO [org.pages.HomePage] :  element was clicked
+2025-07-08 12:16:14   INFO [org.pages.HomePage] : Новинки element was clicked
+2025-07-08 12:16:14   INFO [org.pages.NewInPage] : URL is expected
+2025-07-08 12:16:14   INFO [org.pages.NewInPage] : Назва товару - топ із тенселу з тонким поясом лимонний
+2025-07-08 12:16:20   INFO [org.pages.NewInPage] :  element was clicked
+2025-07-08 12:16:20   INFO [org.pages.ProductPage] : Назва товару співпала
+2025-07-08 12:16:25   INFO [org.pages.ProductPage] : ДОДАТИ В КОШИК element was clicked
+2025-07-08 12:16:26   INFO [org.pages.elements.HeaderElements] :  element was clicked
+2025-07-08 12:16:32   INFO [org.pages.elements.CartPreview] : ПЕРЕГЛЯНУТИ КОШИК element was clicked
+2025-07-08 12:16:33   INFO [org.cartTest.CartTest] : Browser was closed
+2025-07-08 12:22:53   INFO [org.cartTest.CartTest] : Browser was opened
+2025-07-08 12:22:59   INFO [org.pages.HomePage] : Login page was opened with url https://thelace.com.ua
+2025-07-08 12:22:59   INFO [org.pages.HomePage] : Language/currency notice was closed.
+2025-07-08 12:23:00   INFO [org.pages.HomePage] :  element was clicked
+2025-07-08 12:23:05   INFO [org.pages.HomePage] : Новинки element was clicked
+2025-07-08 12:23:05   INFO [org.pages.NewInPage] : URL is expected
+2025-07-08 12:23:05   INFO [org.pages.NewInPage] : Назва товару - топ із тенселу з тонким поясом лимонний
+2025-07-08 12:23:11   INFO [org.pages.NewInPage] :  element was clicked
+2025-07-08 12:23:11   INFO [org.pages.ProductPage] : Назва товару співпала
+2025-07-08 12:23:16   INFO [org.pages.ProductPage] : ДОДАТИ В КОШИК element was clicked
+2025-07-08 12:23:17   INFO [org.pages.elements.HeaderElements] :  element was clicked
+2025-07-08 12:23:23   INFO [org.pages.elements.CartPreview] : ПЕРЕГЛЯНУТИ КОШИК element was clicked
+2025-07-08 12:23:23   INFO [org.pages.CartPage] : URL is expected
+2025-07-08 12:23:24   INFO [org.cartTest.CartTest] : Browser was closed
+2025-07-08 12:25:16   INFO [org.cartTest.CartTest] : Browser was opened
+2025-07-08 12:25:21   INFO [org.pages.HomePage] : Login page was opened with url https://thelace.com.ua
+2025-07-08 12:25:22   INFO [org.pages.HomePage] : Language/currency notice was closed.
+2025-07-08 12:25:22   INFO [org.pages.HomePage] :  element was clicked
+2025-07-08 12:25:27   INFO [org.pages.HomePage] : Новинки element was clicked
+2025-07-08 12:25:27   INFO [org.pages.NewInPage] : URL is expected
+2025-07-08 12:25:27   INFO [org.pages.NewInPage] : Назва товару - топ із тенселу з тонким поясом лимонний
+2025-07-08 12:25:33   INFO [org.pages.NewInPage] :  element was clicked
+2025-07-08 12:25:33   INFO [org.pages.ProductPage] : Назва товару співпала
+2025-07-08 12:25:38   INFO [org.pages.ProductPage] : ДОДАТИ В КОШИК element was clicked
+2025-07-08 12:25:39   INFO [org.pages.elements.HeaderElements] :  element was clicked
+2025-07-08 12:25:42   INFO [org.pages.elements.CartPreview] : ПЕРЕГЛЯНУТИ КОШИК element was clicked
+2025-07-08 12:25:42   INFO [org.pages.CartPage] : URL is expected
+2025-07-08 12:25:42   INFO [org.pages.CartPage] : Text in element matches expected text: КОШИК
+2025-07-08 12:25:43   INFO [org.cartTest.CartTest] : Browser was closed
+2025-07-08 12:33:03   INFO [org.cartTest.CartTest] : Browser was opened
+2025-07-08 12:33:08   INFO [org.pages.HomePage] : Login page was opened with url https://thelace.com.ua
+2025-07-08 12:33:09   INFO [org.pages.HomePage] : Language/currency notice was closed.
+2025-07-08 12:33:09   INFO [org.pages.HomePage] :  element was clicked
+2025-07-08 12:33:14   INFO [org.pages.HomePage] : Новинки element was clicked
+2025-07-08 12:33:14   INFO [org.pages.NewInPage] : URL is expected
+2025-07-08 12:33:14   INFO [org.pages.NewInPage] : Назва товару - топ із тенселу з тонким поясом лимонний
+2025-07-08 12:33:20   INFO [org.pages.NewInPage] :  element was clicked
+2025-07-08 12:33:21   INFO [org.pages.ProductPage] : Назва товару співпала
+2025-07-08 12:33:29   INFO [org.pages.ProductPage] : ДОДАТИ В КОШИК element was clicked
+2025-07-08 12:33:30   INFO [org.pages.elements.HeaderElements] :  element was clicked
+2025-07-08 12:33:35   INFO [org.pages.elements.CartPreview] : ПЕРЕГЛЯНУТИ КОШИК element was clicked
+2025-07-08 12:33:35   INFO [org.pages.CartPage] : URL is expected
+2025-07-08 12:33:35   INFO [org.pages.CartPage] : Text in element matches expected text: КОШИК
+2025-07-08 12:33:35   INFO [org.pages.CartPage] : Назва товару - топ із тенселу з тонким поясом лимонний - xs
+2025-07-08 12:33:36   INFO [org.cartTest.CartTest] : Browser was closed
+2025-07-08 12:38:13   INFO [org.cartTest.CartTest] : Browser was opened
+2025-07-08 12:38:18   INFO [org.pages.HomePage] : Login page was opened with url https://thelace.com.ua
+2025-07-08 12:38:19   INFO [org.pages.HomePage] : Language/currency notice was closed.
+2025-07-08 12:38:19   INFO [org.pages.HomePage] :  element was clicked
+2025-07-08 12:38:25   INFO [org.pages.HomePage] : Новинки element was clicked
+2025-07-08 12:38:25   INFO [org.pages.NewInPage] : URL is expected
+2025-07-08 12:38:25   INFO [org.pages.NewInPage] : Назва товару - топ із тенселу з тонким поясом лимонний
+2025-07-08 12:38:31   INFO [org.pages.NewInPage] :  element was clicked
+2025-07-08 12:38:31   INFO [org.pages.ProductPage] : Назва товару співпала
+2025-07-08 12:38:38   INFO [org.pages.ProductPage] : ДОДАТИ В КОШИК element was clicked
+2025-07-08 12:38:39   INFO [org.pages.elements.HeaderElements] :  element was clicked
+2025-07-08 12:38:44   INFO [org.pages.elements.CartPreview] : ПЕРЕГЛЯНУТИ КОШИК element was clicked
+2025-07-08 12:38:44   INFO [org.pages.CartPage] : URL is expected
+2025-07-08 12:38:44   INFO [org.pages.CartPage] : Text in element matches expected text: КОШИК
+2025-07-08 12:38:44   INFO [org.pages.CartPage] : Назва товару співпала
+2025-07-08 12:38:45   INFO [org.cartTest.CartTest] : Browser was closed
+2025-07-08 12:39:34   INFO [org.cartTest.CartTest] : Browser was opened
+2025-07-08 12:39:39   INFO [org.pages.HomePage] : Login page was opened with url https://thelace.com.ua
+2025-07-08 12:39:40   INFO [org.pages.HomePage] : Language/currency notice was closed.
+2025-07-08 12:39:40   INFO [org.pages.HomePage] :  element was clicked
+2025-07-08 12:39:46   INFO [org.pages.HomePage] : Новинки element was clicked
+2025-07-08 12:39:46   INFO [org.pages.NewInPage] : URL is expected
+2025-07-08 12:39:46   INFO [org.pages.NewInPage] : Назва товару - топ із тенселу з тонким поясом лимонний
+2025-07-08 12:39:57   INFO [org.pages.NewInPage] :  element was clicked
+2025-07-08 12:39:58   INFO [org.pages.ProductPage] : Назва товару співпала
+2025-07-08 12:40:10   INFO [org.pages.ProductPage] : ДОДАТИ В КОШИК element was clicked
+2025-07-08 12:40:11   INFO [org.pages.elements.HeaderElements] :  element was clicked
+2025-07-08 12:40:16   INFO [org.pages.elements.CartPreview] : ПЕРЕГЛЯНУТИ КОШИК element was clicked
+2025-07-08 12:40:16   INFO [org.pages.CartPage] : URL is expected
+2025-07-08 12:40:16   INFO [org.pages.CartPage] : Text in element matches expected text: КОШИК
+2025-07-08 12:40:16   INFO [org.pages.CartPage] : Назва товару співпала
+2025-07-08 12:40:17   INFO [org.cartTest.CartTest] : Browser was closed
+2025-07-08 12:48:14   INFO [org.cartTest.CartTest] : Browser was opened
+2025-07-08 12:48:20   INFO [org.pages.HomePage] : Login page was opened with url https://thelace.com.ua
+2025-07-08 12:48:20   INFO [org.pages.HomePage] : Language/currency notice was closed.
+2025-07-08 12:48:20   INFO [org.pages.HomePage] :  element was clicked
+2025-07-08 12:48:26   INFO [org.pages.HomePage] : Новинки element was clicked
+2025-07-08 12:48:26   INFO [org.pages.NewInPage] : URL is expected
+2025-07-08 12:48:26   INFO [org.pages.NewInPage] : Назва товару - топ із тенселу з тонким поясом лимонний
+2025-07-08 12:48:32   INFO [org.pages.NewInPage] :  element was clicked
+2025-07-08 12:48:32   INFO [org.pages.ProductPage] : Назва товару співпала
+2025-07-08 12:48:38   INFO [org.pages.ProductPage] : ДОДАТИ В КОШИК element was clicked
+2025-07-08 12:48:38   INFO [org.pages.elements.HeaderElements] :  element was clicked
+2025-07-08 12:48:44   INFO [org.pages.elements.CartPreview] : ПЕРЕГЛЯНУТИ КОШИК element was clicked
+2025-07-08 12:48:44   INFO [org.pages.CartPage] : URL is expected
+2025-07-08 12:48:44   INFO [org.pages.CartPage] : Text in element matches expected text: КОШИК
+2025-07-08 12:48:44   INFO [org.pages.CartPage] : Назва товару співпала
+2025-07-08 12:48:47   INFO [org.pages.CartPage] : ОЧИСТИТИ КОШИК element was clicked
+2025-07-08 12:48:48   INFO [org.cartTest.CartTest] : Browser was closed
+2025-07-08 12:54:34   INFO [org.cartTest.CartTest] : Browser was opened
+2025-07-08 12:54:39   INFO [org.pages.HomePage] : Login page was opened with url https://thelace.com.ua
+2025-07-08 12:54:39   INFO [org.pages.HomePage] : Language/currency notice was closed.
+2025-07-08 12:54:40   INFO [org.pages.HomePage] :  element was clicked
+2025-07-08 12:54:45   INFO [org.pages.HomePage] : Новинки element was clicked
+2025-07-08 12:54:45   INFO [org.pages.NewInPage] : URL is expected
+2025-07-08 12:54:45   INFO [org.pages.NewInPage] : Назва товару - топ із тенселу з тонким поясом лимонний
+2025-07-08 12:54:51   INFO [org.pages.NewInPage] :  element was clicked
+2025-07-08 12:54:51   INFO [org.pages.ProductPage] : Назва товару співпала
+2025-07-08 12:54:59   INFO [org.pages.ProductPage] : ДОДАТИ В КОШИК element was clicked
+2025-07-08 12:55:00   INFO [org.pages.elements.HeaderElements] :  element was clicked
+2025-07-08 12:55:05   INFO [org.pages.elements.CartPreview] : ПЕРЕГЛЯНУТИ КОШИК element was clicked
+2025-07-08 12:55:05   INFO [org.pages.CartPage] : URL is expected
+2025-07-08 12:55:05   INFO [org.pages.CartPage] : Text in element matches expected text: КОШИК
+2025-07-08 12:55:05   INFO [org.pages.CartPage] : Назва товару співпала
+2025-07-08 12:55:08   INFO [org.pages.CartPage] : ОЧИСТИТИ КОШИК element was clicked
+2025-07-08 12:55:08   INFO [org.pages.CartPage] : Text in element matches expected text: Ваш кошик порожній.
+2025-07-08 12:55:09   INFO [org.cartTest.CartTest] : Browser was closed

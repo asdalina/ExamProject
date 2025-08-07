@@ -27,6 +27,9 @@ public class HeaderElements extends CommonActionsWithElements {
     @FindBy(xpath = "//a[@data-target='login-panel']")
     private WebElement buttonAccount;
 
+    @FindBy(xpath = "//div[@class='header-right-items header-items ']//span[contains(@class, 'shopping-cart-icon')]")
+    private WebElement buttonCart;
+
     public HeaderElements(WebDriver webDriver) {
         super(webDriver);
     }
@@ -73,6 +76,10 @@ public MyAccountOrdersPage clickOnButtonAccountForLoggedUser() {
         return this;
     }
 
+    public CartPreview clickOnButtonCart() {
+        clickOnElement(buttonCart);
+        return new CartPreview(webDriver);
+    }
 
 
     public HeaderElements enterTextIntoInputSearch(String text) {
